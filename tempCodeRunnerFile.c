@@ -1,0 +1,1 @@
+auxX != 0 && auxX!= tamanho -1 && auxY!= 0 && auxY!= tamanho -1
